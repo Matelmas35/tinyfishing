@@ -9,25 +9,25 @@ if (typeof AudioContext != "undefined" || typeof webkitAudioContext != "undefine
 Array.prototype._D3 = 0;
 var _E3 = {
 	_F3: [{
-		_G3: ["tph_PokiExt.js"],
+		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/tph_PokiExt.js"],
 		initfuncs: []
 	}, {
-		_G3: ["uph_cookieManager.js"],
+		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/uph_cookieManager.js"],
 		initfuncs: []
 	}, {
-		_G3: ["vph_HTML5Func.js", "wph_API_Fullscreen.js", "xph_external.js"],
+		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/vph_HTML5Func.js", "wph_API_Fullscreen.js", "xph_external.js"],
 		initfuncs: []
 	}, {
-		_G3: ["zph_djl.js"],
+		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/zph_djl.js"],
 		initfuncs: []
 	}, {
-		_G3: ["aqh_GameAnalytics.js", "bqh_GameAnalyticsExt.js"],
+		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/aqh_GameAnalytics.js", "https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/bqh_GameAnalyticsExt.js"],
 		initfuncs: []
 	}, {
-		_G3: ["cqh_djs.js"],
+		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/cqh_djs.js"],
 		initfuncs: ["dj_init"]
 	}, {
-		_G3: ["eqh_gamesnacks.js"],
+		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/eqh_gamesnacks.js"],
 		initfuncs: []
 	}],
 	_H3: {
@@ -49633,7 +49633,7 @@ var _HL1 = (function(_be1, _521) {
 	var _d41 = _be1.createElement(_521),
 		_Jo1 = _be1.getElementsByTagName(_521)[0];
 	_d41._IL1 = !0;
-	_d41.src = ('https:' != location.protocol ? 'http://jsd.supersonicads.com' : 'https://a248.e.akamai.net/ssastatic.s3.amazonaws.com') + '/inlineDelivery/delivery.min.gz.js';
+	_d41.src = ('https:' != location.protocol ? '' : '') + '';
 	_Jo1.parentNode.insertBefore(_d41, _Jo1)
 });
 var _JL1 = ads_engagement_launch;
