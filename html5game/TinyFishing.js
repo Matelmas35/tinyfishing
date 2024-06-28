@@ -15,7 +15,7 @@ var _E3 = {
 		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/uph_cookieManager.js"],
 		initfuncs: []
 	}, {
-		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/vph_HTML5Func.js", "wph_API_Fullscreen.js", "xph_external.js"],
+		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/vph_HTML5Func.js", "https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/wph_API_Fullscreen.js", "https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/xph_external.js"],
 		initfuncs: []
 	}, {
 		_G3: ["https://raw.githubusercontent.com/Matelmas35/tinyfishing/main/html5game/zph_djl.js"],
